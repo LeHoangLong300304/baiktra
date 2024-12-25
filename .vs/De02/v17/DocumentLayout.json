@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lel59\\source\\repos\\De02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|c:\\users\\lel59\\source\\repos\\de02\\de02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|solutionrelative:de02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|c:\\users\\lel59\\source\\repos\\de02\\de02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|solutionrelative:de02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|c:\\users\\lel59\\source\\repos\\de02\\de02\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|solutionrelative:de02\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|c:\\users\\lel59\\source\\repos\\de02\\de02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|solutionrelative:de02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|c:\\users\\lel59\\source\\repos\\de02\\de02\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|solutionrelative:de02\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|c:\\users\\lel59\\source\\repos\\de02\\de02\\model\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|solutionrelative:de02\\model\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|c:\\users\\lel59\\source\\repos\\de02\\de02\\model\\loaispdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871FAE09-D14C-49C7-BD5B-C80D1A93125E}|De02\\De02.csproj|solutionrelative:de02\\model\\loaispdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "De02\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\Form1.Designer.cs",
+              "RelativeToolTip": "De02\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T03:24:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\Program.cs",
+              "RelativeDocumentMoniker": "De02\\Program.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\Program.cs",
+              "RelativeToolTip": "De02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T03:14:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\Form1.cs",
+              "RelativeDocumentMoniker": "De02\\Form1.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\Form1.cs",
+              "RelativeToolTip": "De02\\Form1.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAhwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T01:26:35.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sanpham.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\model\\Sanpham.cs",
+              "RelativeDocumentMoniker": "De02\\model\\Sanpham.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\model\\Sanpham.cs",
+              "RelativeToolTip": "De02\\model\\Sanpham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T01:26:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiSP.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\model\\LoaiSP.cs",
+              "RelativeDocumentMoniker": "De02\\model\\LoaiSP.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\model\\LoaiSP.cs",
+              "RelativeToolTip": "De02\\model\\LoaiSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T01:26:14.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loaiSPDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\model\\loaiSPDBcontext.cs",
+              "RelativeDocumentMoniker": "De02\\model\\loaiSPDBcontext.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\model\\loaiSPDBcontext.cs",
+              "RelativeToolTip": "De02\\model\\loaiSPDBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T01:23:42.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\Form1.cs",
+              "RelativeDocumentMoniker": "De02\\Form1.cs",
+              "ToolTip": "C:\\Users\\lel59\\source\\repos\\De02\\De02\\Form1.cs [Design]",
+              "RelativeToolTip": "De02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T01:16:02.62Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
